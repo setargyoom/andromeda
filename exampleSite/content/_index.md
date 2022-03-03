@@ -26,8 +26,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Apa yang dibahas?"
+  description: ""
   features_blocks:
   - icon: "las la-fish"
     title: "Ikan"
