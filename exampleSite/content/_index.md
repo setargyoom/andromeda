@@ -24,7 +24,7 @@ brands_carousel:
 
 # features
 features:
-  enable: false
+  enable: true
   subtitle: "Special Features"
   title: "Elements to <br> get you started"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
