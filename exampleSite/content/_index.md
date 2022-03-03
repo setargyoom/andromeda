@@ -1,15 +1,13 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
-
-
+  title: "Selamat Datang"
+  button: "Terima Kasih"
+  button_link: "#"
+  
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -26,7 +24,7 @@ brands_carousel:
 
 # features
 features:
-  enable: true
+  enable: false
   subtitle: "Special Features"
   title: "Elements to <br> get you started"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -53,7 +51,7 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -63,7 +61,7 @@ intro_video:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   block:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
@@ -78,7 +76,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
