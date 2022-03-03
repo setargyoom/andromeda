@@ -1,3 +1,9 @@
+---
+title : Disclaimer
+layout : "discalimer"
+draft : false
+---
+
 Informasi yang terdapat di dalam situs ini bertujuan sebagai referensi bacaan yang efektif dan dapat diakses oleh siapa pun. Informasi yang disediakan oleh situs ini senantiasa dijaga agar situs selalu menyajikan data yang benar dan tepat.
 
 Kami tidak membuat jaminan dalam bentuk apapun, baik tersurat ataupun tersirat mengenai akurasi kesesuaian, kelengkapan dan ketersediaan isi konten dari website yang berupa informasi, produk, atau jasa dan gambar terkait. Setiap penggunaan informasi yang dijadikan acuan tersebut merupakan risiko anda (pengguna situs).
