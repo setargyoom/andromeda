@@ -25,7 +25,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 custom_script = ""
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 mainSections = ["blog"]
@@ -46,14 +46,14 @@ quality = 100
 
 # Preloader
 [preloader]
-enable = true
+enable = false
 preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium"
-link = "https://gethugothemes.com/products/andromeda/"
+label = "Terima Kasih"
+link = "#"
 
 # cookies
 [cookies]
@@ -65,10 +65,10 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Get Andromeda-Premium Now"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-button = "Download The Theme"
-button_link = "https://gethugothemes.com/products/andromeda/"
+title = "Siap Bereksplorasi?"
+content = "Temukan beragam informasi menarik untuk Anda"
+button = "Blog"
+button_link = "https://yform.netlify.app/blog/"
 
 ############################# social site ########################
 [[social]]
