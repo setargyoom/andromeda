@@ -10,7 +10,7 @@ who_we_are:
   title: "Halo, kami adalah yform, siap membantu Anda"
   description: "Kami membagikan informasi seputar ikan, burung, binatang, tanaman, pertanian, dan buah-buahan. Semoga dapat bermanfaat. Terima kasih :)"
 
-  image: "images/about/ant-3.svg"
+  image: "exampleSite/assets/images/about/ant-3.svg"
 
 # what_we_do
 what_we_do:
