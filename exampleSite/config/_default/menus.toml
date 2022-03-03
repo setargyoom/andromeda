@@ -15,23 +15,6 @@ url = "blog/"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Disclaimer"
-  url = "disclaimer/"
-  weight = 1
-
-  [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
-  weight = 2
-  
-[[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
