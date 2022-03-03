@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://and11.vercel.app/"
+baseURL = "https://yform.netlify.app/"
 title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
 theme = "andromeda-light"
 # post pagination
