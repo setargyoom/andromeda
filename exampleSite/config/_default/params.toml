@@ -16,7 +16,7 @@ image = "images/yform.png"                # this image will be used as fallback 
 footer_info = "Berbagi informasi apa adanya"
 
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xdobzdbw" # contact form works with https://formspree.io
 
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Modified By [yform](https://yform.netlify.app/)"
