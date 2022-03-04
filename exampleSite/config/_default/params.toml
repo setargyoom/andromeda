@@ -4,7 +4,7 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/yform.png"
 # use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "160x"
 # logo text will only show when logo is missing.
 logo_text = "yform"
 # OpenGraph / Twitter Card metadata
