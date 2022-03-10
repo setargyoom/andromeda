@@ -30,13 +30,13 @@ Anda tidak diperkenankan:
 • Mempublikasikan ulang atau mereproduksi bagian mana pun dari situs web ini melalui penggunaan iframe atau screenscraper.
 
 ### Penggunaan yang tidak dapat diterima
-1 Anda tidak boleh menggunakan situs web ini dengan cara apa pun yang menyebabkan, atau dapat menyebabkan, kerusakan pada situs web atau penurunan ketersediaan atau aksesibilitas dari atau dengan cara apa pun yang melanggar hukum, ilegal, curang, atau berbahaya, atau sehubungan dengan tindakan apa pun yang melanggar hukum, ilegal. Serta tujuan atau aktivitas penipuan atau tindakan berbahaya.
+1. Anda tidak boleh menggunakan situs web ini dengan cara apa pun yang menyebabkan, atau dapat menyebabkan, kerusakan pada situs web atau penurunan ketersediaan atau aksesibilitas dari atau dengan cara apa pun yang melanggar hukum, ilegal, curang, atau berbahaya, atau sehubungan dengan tindakan apa pun yang melanggar hukum, ilegal. Serta tujuan atau aktivitas penipuan atau tindakan berbahaya.
 
-2 Anda tidak boleh menggunakan situs web ini untuk menyalin, menyimpan, menghosting, mengirimkan, mengirim, menggunakan, menerbitkan, atau mendistribusikan materi apa pun yang terdiri dari (atau terkait dengan) spyware, virus komputer, Trojan horse, worm, keystroke logger, rootkit, atau lainnya. perangkat lunak komputer berbahaya.
+2. Anda tidak boleh menggunakan situs web ini untuk menyalin, menyimpan, menghosting, mengirimkan, mengirim, menggunakan, menerbitkan, atau mendistribusikan materi apa pun yang terdiri dari (atau terkait dengan) spyware, virus komputer, Trojan horse, worm, keystroke logger, rootkit, atau lainnya. perangkat lunak komputer berbahaya.
 
-3 Anda tidak boleh melakukan aktivitas pengumpulan data yang sistematis atau otomatis pada atau terkait dengan situs web ini tanpa persetujuan tertulis dari kami.
+3. Anda tidak boleh melakukan aktivitas pengumpulan data yang sistematis atau otomatis pada atau terkait dengan situs web ini tanpa persetujuan tertulis dari kami.
 
-4 Anda tidak boleh menggunakan situs web ini untuk tujuan apa pun yang terkait dengan pemasaran tanpa persetujuan tertulis dari kami.
+4. Anda tidak boleh menggunakan situs web ini untuk tujuan apa pun yang terkait dengan pemasaran tanpa persetujuan tertulis dari kami.
 
 ### Akses terbatas
 Akses ke area tertentu dari situs web ini dibatasi. Kami berhak untuk membatasi akses ke area tertentu dari situs web ini, atau atas kebijakan kami, seluruh situs web ini. dapat mengubah atau memodifikasi kebijakan ini tanpa pemberitahuan.
