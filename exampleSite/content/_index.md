@@ -31,22 +31,22 @@ features:
   features_blocks:
   - icon: "las la-fish"
     title: "Ikan"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
   - icon: "las la-dove"
     title: "Burung"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
   - icon: "las la-spider"
     title: "Binatang"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
   - icon: "las la-tree"
     title: "Tanaman"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
   - icon: "las la-seedling"
     title: "Pertanian"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
   - icon: "las la-apple-alt"
     title: "Buah-Buahan"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: ""
 
 
 # intro_video
