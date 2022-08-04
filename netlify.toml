@@ -20,4 +20,4 @@
   from = "https://yform.netlify.app"
   to = "https://yform.my.id"
   status = 301
-  force += true
+  force = true
