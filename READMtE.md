@@ -57,16 +57,13 @@ Get It Now | [![download-light](https://demo.gethugothemes.com/icons/download.pn
 # clone the repository
 git clone git@github.com:gethugothemes/andromeda-light.git
 
-# cd in the project directory
+# cd in the project director
 $ cd andromeda-light/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
-Or Check out [Full Documentation](https://docs.gethugothemes.com/andromeda/?ref=github).
-
-## Content Management System
-
+Or Check out [Full Documentation]
 [![import to
 Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/andromeda-light&engine=hugo&version=0.87.0)
 
