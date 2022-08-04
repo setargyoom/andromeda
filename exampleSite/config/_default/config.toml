@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://yform.netlify.app/"
+baseURL = "https://yform.my.id/"
 title = "yform"
 theme = "andromeda-light"
 # post pagination
