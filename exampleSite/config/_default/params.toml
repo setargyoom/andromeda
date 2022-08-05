@@ -68,7 +68,7 @@ enable = true
 title = "Siap Bereksplorasi?"
 content = "Temukan beragam informasi menarik untuk Anda"
 button = "Blog"
-button_link = "https://yform.netlify.app/blog"
+button_link = "https://yform.my.id/blog"
 
 ############################# social site ########################
 [[social]]
