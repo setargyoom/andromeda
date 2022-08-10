@@ -1,10 +1,10 @@
 ---
 date: "2022-06-23"
 title: "Selamat Datang"
-image: "images/blog/01.jpg"
+image: "images/author/panda.png"
 author_info: 
-  name: "Arif F. Rozy"
-  image: "images/author/arif.jpg"
+  name: "panda"
+  image: "images/author/panda.png"
 draft: false
 ---
 Selamat Datang
