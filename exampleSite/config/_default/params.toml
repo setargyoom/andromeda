@@ -53,7 +53,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Terima Kasih"
-link = "#"
+link = "thank-you/"
 
 # cookies
 [cookies]
