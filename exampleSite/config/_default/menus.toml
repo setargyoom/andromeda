@@ -37,6 +37,6 @@ url = "disclaimer/"
 weight = 3
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name = "Thank You"
+url = "thank-you/"
 weight = 4
