@@ -18,6 +18,6 @@
   
   [[redirects]]
   from = "https://yform.netlify.app"
-  to = "https://yform.my.id"
+  to = "https://yform.netlify.app"
   status = 301
   force = true
